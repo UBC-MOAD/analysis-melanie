@@ -1,0 +1,15 @@
+# File map for 13-Sep-2016 creation of analysis-melanie repo
+# from the Melanie_Grenier/ directory of the analysis repo.
+# Done because the analysis repo had become so large
+# that it hit Bitbucket's 2Gb hard size limit.
+#
+# The following command was used to create the analysis-melanie repo:
+#    cd geotraces
+#    hg convert --filemap analysis/analysis-melanie_filemap.txt analysis analysis-melanie
+
+include README.md
+include Python\ Guide.ipynb
+include analysis-melanie_filemap.txt
+include Melanie_Grenier
+
+rename Melanie_Grenier notebooks
