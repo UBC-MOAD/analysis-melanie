@@ -44,15 +44,7 @@ Descriptions under the links below are from the first cell of the notebooks
         readme += '* ##[{fn}]({url}/{fn})  \n    \n'.format(fn=fn, url=url)
         readme += notebook_description(fn)
     license = """
-##License
 
-These notebooks and files are copyright 2013-{this_year}
-by the Salish Sea MEOPAR Project Contributors
-and The University of British Columbia.
-
-They are licensed under the Apache License, Version 2.0.
-http://www.apache.org/licenses/LICENSE-2.0
-Please see the LICENSE file for details of the license.
 """.format(this_year=datetime.date.today().year)
     with open('README.md', 'wt') as f:
         f.writelines(readme)
