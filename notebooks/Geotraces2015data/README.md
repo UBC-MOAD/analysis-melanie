@@ -28,5 +28,15 @@ Descriptions under the links below are from the first cell of the notebooks
     
 * ##[Geotraces2015data-ReadAndDefineData.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/Geotraces2015data-ReadAndDefineData.ipynb)  
     
+* ##[CAA8-v1.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/CAA8-v1.ipynb)  
+    
+    **CAA8 story**  
+
+* ##[LabradorSea-MAP.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/LabradorSea-MAP.ipynb)  
+    
+* ##[LabradorSea-v1.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/LabradorSea-v1.ipynb)  
+    
+    **Labrador Sea story**  
+
 
 
