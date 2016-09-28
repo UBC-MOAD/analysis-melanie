@@ -10,8 +10,14 @@ def AllData_variables():
     data.rename(columns={'yyyy-mm-ddThh:mm:ss.ss':'date',
                      'Longitude [degrees_east]':'lon','Latitude [degrees_north]':'lat',
                      'Bot. Depth [m]':'z_bottom','PRES_01 [decibars]':'P','Depth [metres]':'d',
-                     'TE90_01 [degrees C]':'temp','PSAL_01 [psu]':'sal','SIGT_01 [kg/m**3]':'dens',
-                     '231-Pa (fg/kg)':'Pa','230-Th (fg/kg)':'Th','231-Pa/230-Th':'PaTh'}, inplace= True)
+                     'TE90_01 [degrees C]':'temp','TRAN_01 [%]':'transmi','FLOR_01 [mg/m**3]':'fluo',
+                     'PSAL_01 [psu]':'sal','SIGT_01 [kg/m**3]':'dens','POTM_01 [degrees C]':'theta',
+                     'Oxygen, SBE 43 [umol/Kg]':'Oxy_uM','Oxygen, SBE 43 [ml/l]':'Oxy_mL',
+                     '231-Pa (fg/kg)':'Pa','231-Pa error':'PaErr','230-Th error':'ThErr','230-Th (fg/kg)':'Th',
+                     '231-Pa/230-Th':'PaTh','Pa/Th error':'PaThErr',
+                     'Nitrate-1 [?mol/L]':'NO3_1','Nitrate-2 [?mol/L]':'NO3_2',
+                     'Phosphate-1 [?mol/L]':'PO3_1','Phosphate-2 [?mol/L]':'PO3_2',
+                     'Silicate-1 [?mol/L]':'SiO4_1','Silicate-2 [?mol/L]':'SiO4_2'}, inplace= True)
 
     # Define the number of columns and rows to display
     pd.options.display.max_columns = 64
@@ -29,7 +35,11 @@ def AllData_variables():
     d = data.d
     t = data.temp
     s = data.sal
-
+    Tr = data.transmi
+    fluo = data.fluo
+    oxy_uM = data.Oxy_uM
+    oxy_mL = data.Oxy_mL
+    
     #print(t.values,s.values,d.values,'\n') # Returns Series as ndarray or ndarray-like depending on the dtype 
                            # Quotes around the numbers indicate that the type is an object, not a float
 
@@ -64,13 +74,23 @@ def AllData_variables():
     #isopmin,isopmax,isop.shape
     #levels    
     
-    return data,sta,date,lon,lat,P,d,t,s,rho,isop,si,ti
+    NO3_1=data[data.NO3_1.notnull()] # NO3_1: select only rows where NO3_1 is not NaN
+    NO3_2=data[data.NO3_2.notnull()] 
+    PO3_1=data[data.PO3_1.notnull()] 
+    PO3_2=data[data.PO3_2.notnull()] 
+    SiO4_1=data[data.SiO4_1.notnull()] 
+    SiO4_2=data[data.SiO4_2.notnull()] 
+    nut=data[(data.NO3_1.notnull()) | (data.NO3_2.notnull()) | 
+             (data.PO3_1.notnull()) | (data.PO3_2.notnull()) |
+             (data.SiO4_1.notnull()) | (data.SiO4_2.notnull())] 
+    
+    return data,sta,date,lon,lat,P,d,t,s,Tr,fluo,oxy_uM,oxy_mL,rho,isop,si,ti,NO3_1,NO3_2,PO3_1,PO3_2,SiO4_1,SiO4_2,nut
 
 #####################################################################################################################
 #####################################################################################################################
 def PaTh_variables():
 
-    data,sta,date,lon,lat,P,d,t,s,rho,isop,si,ti = Data.AllData_variables()
+    data,sta,date,lon,lat,P,d,t,s,Tr,fluo,oxy_uM,oxy_mL,rho,isop,si,ti,NO3_1,NO3_2,PO3_1,PO3_2,SiO4_1,SiO4_2,nut = Data.AllData_variables()
     
     PaData=data[data.Pa.notnull()] # PaData: select only rows where Pa is not NaN -> n=92
     ThLost=PaData[PaData.Th.isnull()] # Among PaData, select only rows where Th is NaN 
@@ -96,7 +116,7 @@ def PaTh_variables():
 
 def PaTh_varSorted():
     
-    data,sta,date,lon,lat,P,d,t,s,rho,isop,si,ti = Data.AllData_variables()
+    data,sta,date,lon,lat,P,d,t,s,Tr,fluo,oxy_uM,oxy_mL,rho,isop,si,ti,NO3_1,NO3_2,PO3_1,PO3_2,SiO4_1,SiO4_2,nut = Data.AllData_variables()
     PaThData,PaTh_sta,PaTh_lon,PaTh_lat,PaTh_t,PaTh_s,PaTh_rho,PaTh_d = Data.PaTh_variables()
     
     listAllSta = []
@@ -119,5 +139,14 @@ def PaTh_varSorted():
     #d_sort[listPaThSta[0]] ## This line and the line below are equivalent
     #d_sort['K1']
     #PaThDataSorted
+
+    PaThSort_sta=PaThDataSorted.Station
+    PaThSort_d=PaThDataSorted.d
+    Pa=PaThDataSorted.Pa
+    Th=PaThDataSorted.Th
+    PaTh=PaThDataSorted.PaTh
+    PaErr=PaThDataSorted.PaErr
+    ThErr=PaThDataSorted.ThErr
+    PaThErr=PaThDataSorted.PaThErr
     
-    return listAllSta,listPaThSta,PaThDataSorted
+    return listAllSta,listPaThSta,PaThDataSorted,PaThSort_sta,PaThSort_d,Pa,Th,PaTh,PaErr,ThErr,PaThErr
