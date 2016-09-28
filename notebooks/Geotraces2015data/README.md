@@ -8,7 +8,15 @@ Descriptions under the links below are from the first cell of the notebooks
 
 * ##[Geotraces2015data-AllStations-PaThStations_MAP.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/Geotraces2015data-AllStations-PaThStations_MAP.ipynb)  
     
+* ##[LabradorSea-v2.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/LabradorSea-v2.ipynb)  
+    
+    **Labrador Sea story**  
+
 * ##[Geotraces2015data-Hydro-TS.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/Geotraces2015data-Hydro-TS.ipynb)  
+    
+* ##[CanadaBasin-v1-hydro-transmi.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/CanadaBasin-v1-hydro-transmi.ipynb)  
+    
+* ##[CanadaBasin-v1-hydro-oxy.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/CanadaBasin-v1-hydro-oxy.ipynb)  
     
 * ##[Geotraces2015data-PaThData.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/Geotraces2015data-PaThData.ipynb)  
     
@@ -22,9 +30,15 @@ Descriptions under the links below are from the first cell of the notebooks
     
     **List examples**  
 
+* ##[CanadaBasin-v1-hydro.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/CanadaBasin-v1-hydro.ipynb)  
+    
 * ##[Geotraces2015data-PaThStations_MAP-grey.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/Geotraces2015data-PaThStations_MAP-grey.ipynb)  
     
 * ##[Geotraces2015data-PaThData-CB-compare1995-2007-2009.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/Geotraces2015data-PaThData-CB-compare1995-2007-2009.ipynb)  
+    
+* ##[Geotraces2015data-AllStations-PaThStations_MAP-v2.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/Geotraces2015data-AllStations-PaThStations_MAP-v2.ipynb)  
+    
+* ##[Geotraces2015data-Hydro-v2.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/Geotraces2015data-Hydro-v2.ipynb)  
     
 * ##[Geotraces2015data-ReadAndDefineData.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/Geotraces2015data-ReadAndDefineData.ipynb)  
     
@@ -38,5 +52,13 @@ Descriptions under the links below are from the first cell of the notebooks
     
     **Labrador Sea story**  
 
+* ##[CanadaBasin-v1-data.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/CanadaBasin-v1-data.ipynb)  
+    
+* ##[Geotraces2015data-PaTh-v2.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/Geotraces2015data-PaTh-v2.ipynb)  
+    
+* ##[CanadaBasin-v1-hydro-fluo.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/CanadaBasin-v1-hydro-fluo.ipynb)  
+    
+* ##[Geotraces2015data-PaThStations_MAP-color.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/Geotraces2015data-PaThStations_MAP-color.ipynb)  
+    
 
 
