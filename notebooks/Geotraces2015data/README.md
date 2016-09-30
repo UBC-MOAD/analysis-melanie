@@ -26,6 +26,8 @@ Descriptions under the links below are from the first cell of the notebooks
     
 * ##[Geotraces2015data-Hydro.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/Geotraces2015data-Hydro.ipynb)  
     
+* ##[CanadaBasin-v1-data-TandSanomVSTh-SavGol-filter-v2.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/CanadaBasin-v1-data-TandSanomVSTh-SavGol-filter-v2.ipynb)  
+    
 * ##[Doug-examples.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/Doug-examples.ipynb)  
     
     **List examples**  
@@ -35,6 +37,8 @@ Descriptions under the links below are from the first cell of the notebooks
 * ##[Geotraces2015data-PaThStations_MAP-grey.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/Geotraces2015data-PaThStations_MAP-grey.ipynb)  
     
 * ##[Geotraces2015data-PaThData-CB-compare1995-2007-2009.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/Geotraces2015data-PaThData-CB-compare1995-2007-2009.ipynb)  
+    
+* ##[CanadaBasin-v1-data-TandSanomVSTh-SavGol-filter.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/CanadaBasin-v1-data-TandSanomVSTh-SavGol-filter.ipynb)  
     
 * ##[Geotraces2015data-AllStations-PaThStations_MAP-v2.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/Geotraces2015data-AllStations-PaThStations_MAP-v2.ipynb)  
     
@@ -52,9 +56,13 @@ Descriptions under the links below are from the first cell of the notebooks
     
     **Labrador Sea story**  
 
+* ##[Fitting-tests_for_CanadaBasin-v1-data-TandSanomVSTh.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/Fitting-tests_for_CanadaBasin-v1-data-TandSanomVSTh.ipynb)  
+    
 * ##[CanadaBasin-v1-data.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/CanadaBasin-v1-data.ipynb)  
     
 * ##[Geotraces2015data-PaTh-v2.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/Geotraces2015data-PaTh-v2.ipynb)  
+    
+* ##[CanadaBasin-v1-data-TandSanomVSTh-Lowess.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/CanadaBasin-v1-data-TandSanomVSTh-Lowess.ipynb)  
     
 * ##[CanadaBasin-v1-hydro-fluo.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/CanadaBasin-v1-hydro-fluo.ipynb)  
     
