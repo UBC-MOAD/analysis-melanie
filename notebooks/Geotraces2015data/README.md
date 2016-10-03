@@ -28,6 +28,8 @@ Descriptions under the links below are from the first cell of the notebooks
     
 * ##[CanadaBasin-v1-data-TandSanomVSTh-SavGol-filter-v2.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/CanadaBasin-v1-data-TandSanomVSTh-SavGol-filter-v2.ipynb)  
     
+    **This notebook aims at looking at the strongly variable diss. Th concentrations measured for 2009 stations in the intermediate/deep Canada Basin**  
+
 * ##[Doug-examples.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/Doug-examples.ipynb)  
     
     **List examples**  
