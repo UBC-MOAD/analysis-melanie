@@ -35,6 +35,7 @@ def AllData_variables():
     d = data.d
     t = data.temp
     s = data.sal
+    theta = data.theta
     Tr = data.transmi
     fluo = data.fluo
     oxy_uM = data.Oxy_uM
@@ -46,7 +47,22 @@ def AllData_variables():
         
     t = pd.to_numeric(t, errors='coerce')
     s = pd.to_numeric(s, errors='coerce')
+    ## Calculation of potential temperature when not measured
+    from seawater import eos80 
+    TpotCalc = eos80.ptmp(s, t, P, pr=0)
+    Tpot=TpotCalc
+
+    idx = 34 # Number of the column where you want to insert your new column, starting from 0 
+    col_name = 'Tpot'
+    value = Tpot
+    data.insert(idx, col_name, value)
     
+     ## Include theta values where only theta -not in situ T- was given in the CTD file
+    thetaOnly = (data.theta.notnull()) & (data.temp.isnull())
+    data.Tpot[thetaOnly] = data.theta[thetaOnly]
+    
+    
+    ## Calculation of potential density
     from salishsea_tools import  psu_tools
     
     rho = psu_tools.calculate_density(t,s)
@@ -59,7 +75,7 @@ def AllData_variables():
     col_name = 'rho'
     value = rho
     data.insert(idx, col_name, value)
-
+    
     import DerivVar
     from importlib import reload
 
@@ -84,13 +100,13 @@ def AllData_variables():
              (data.PO3_1.notnull()) | (data.PO3_2.notnull()) |
              (data.SiO4_1.notnull()) | (data.SiO4_2.notnull())] 
     
-    return data,sta,date,lon,lat,P,d,t,s,Tr,fluo,oxy_uM,oxy_mL,rho,isop,si,ti,NO3_1,NO3_2,PO3_1,PO3_2,SiO4_1,SiO4_2,nut
+    return data,sta,date,lon,lat,P,d,t,s,theta,Tpot,Tr,fluo,oxy_uM,oxy_mL,rho,isop,si,ti,NO3_1,NO3_2,PO3_1,PO3_2,SiO4_1,SiO4_2,nut
 
 #####################################################################################################################
 #####################################################################################################################
 def PaTh_variables():
 
-    data,sta,date,lon,lat,P,d,t,s,Tr,fluo,oxy_uM,oxy_mL,rho,isop,si,ti,NO3_1,NO3_2,PO3_1,PO3_2,SiO4_1,SiO4_2,nut = Data.AllData_variables()
+    data,sta,date,lon,lat,P,d,t,s,theta,Tpot,Tr,fluo,oxy_uM,oxy_mL,rho,isop,si,ti,NO3_1,NO3_2,PO3_1,PO3_2,SiO4_1,SiO4_2,nut = Data.AllData_variables()
     
     PaData=data[data.Pa.notnull()] # PaData: select only rows where Pa is not NaN -> n=92
     ThLost=PaData[PaData.Th.isnull()] # Among PaData, select only rows where Th is NaN 
@@ -105,19 +121,20 @@ def PaTh_variables():
     PaTh_lat = PaThData.lat
     PaTh_t = PaThData.temp
     PaTh_s = PaThData.sal
+    PaTh_theta = PaThData.theta
     PaTh_rho = PaThData.rho
     PaTh_d = PaThData.d
     
     
-    return PaThData,PaTh_sta,PaTh_lon,PaTh_lat,PaTh_t,PaTh_s,PaTh_rho,PaTh_d
+    return PaThData,PaTh_sta,PaTh_lon,PaTh_lat,PaTh_t,PaTh_s,PaTh_theta,PaTh_rho,PaTh_d
 
 #####################################################################################################################
 #####################################################################################################################
 
 def PaTh_varSorted():
     
-    data,sta,date,lon,lat,P,d,t,s,Tr,fluo,oxy_uM,oxy_mL,rho,isop,si,ti,NO3_1,NO3_2,PO3_1,PO3_2,SiO4_1,SiO4_2,nut = Data.AllData_variables()
-    PaThData,PaTh_sta,PaTh_lon,PaTh_lat,PaTh_t,PaTh_s,PaTh_rho,PaTh_d = Data.PaTh_variables()
+    data,sta,date,lon,lat,P,d,t,s,Tpot,theta,Tr,fluo,oxy_uM,oxy_mL,rho,isop,si,ti,NO3_1,NO3_2,PO3_1,PO3_2,SiO4_1,SiO4_2,nut = Data.AllData_variables()
+    PaThData,PaTh_sta,PaTh_lon,PaTh_lat,PaTh_t,PaTh_s,PaTh_theta,PaTh_rho,PaTh_d = Data.PaTh_variables()
     
     listAllSta = []
     listPaThSta = []
