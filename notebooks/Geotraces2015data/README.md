@@ -18,6 +18,10 @@ Descriptions under the links below are from the first cell of the notebooks
     
 * ##[CanadaBasin-v1-hydro-oxy.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/CanadaBasin-v1-hydro-oxy.ipynb)  
     
+* ##[CanadaBasin-v1-data-TandSanomVSTh-SavGol-filter-v3.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/CanadaBasin-v1-data-TandSanomVSTh-SavGol-filter-v3.ipynb)  
+    
+    **This notebook aims at looking at the strongly variable diss. Th concentrations measured for 2009 stations in the intermediate/deep Canada Basin**  
+
 * ##[Geotraces2015data-PaThData.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/Geotraces2015data-PaThData.ipynb)  
     
 * ##[Geotraces2015data-PaThData-v2.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/Geotraces2015data-PaThData-v2.ipynb)  
@@ -51,6 +55,10 @@ Descriptions under the links below are from the first cell of the notebooks
 * ##[CAA8-v1.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/CAA8-v1.ipynb)  
     
     **CAA8 story**  
+
+* ##[CanadaBasin-TandSanomVSTh-SavGol-filter-Clean-Oct4-v1.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/CanadaBasin-TandSanomVSTh-SavGol-filter-Clean-Oct4-v1.ipynb)  
+    
+    **This notebook aims at comparing the diss. Th concentration variability between the 2007, 2009 and 2015 stations in the intermediate/deep Canada Basin**  
 
 * ##[LabradorSea-MAP.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/LabradorSea-MAP.ipynb)  
     
