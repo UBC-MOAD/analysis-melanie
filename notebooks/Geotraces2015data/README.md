@@ -8,6 +8,8 @@ Descriptions under the links below are from the first cell of the notebooks
 
 * ##[Geotraces2015data-AllStations-PaThStations_MAP.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/Geotraces2015data-AllStations-PaThStations_MAP.ipynb)  
     
+* ##[WorldOceanDatabase2013-PreScannedGeoData-TO-PANDAS-DATAFRAME-WOD.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/WorldOceanDatabase2013-PreScannedGeoData-TO-PANDAS-DATAFRAME-WOD.ipynb)  
+    
 * ##[LabradorSea-v2.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/LabradorSea-v2.ipynb)  
     
     **Labrador Sea story**  
@@ -23,6 +25,8 @@ Descriptions under the links below are from the first cell of the notebooks
     **This notebook aims at looking at the strongly variable diss. Th concentrations measured for 2009 stations in the intermediate/deep Canada Basin**  
 
 * ##[Geotraces2015data-PaThData.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/Geotraces2015data-PaThData.ipynb)  
+    
+* ##[WOD-fromODV-64N90N-TemperatureOnIsopycn27.9-interpol.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/WOD-fromODV-64N90N-TemperatureOnIsopycn27.9-interpol.ipynb)  
     
 * ##[Geotraces2015data-PaThData-v2.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/Geotraces2015data-PaThData-v2.ipynb)  
     
@@ -52,9 +56,15 @@ Descriptions under the links below are from the first cell of the notebooks
     
 * ##[Geotraces2015data-ReadAndDefineData.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/Geotraces2015data-ReadAndDefineData.ipynb)  
     
+* ##[WOD-fromODV-64N90N-pickle.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/WOD-fromODV-64N90N-pickle.ipynb)  
+    
 * ##[CAA8-v1.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/CAA8-v1.ipynb)  
     
     **CAA8 story**  
+
+* ##[CB2007-KC2700-MixingRateCalculation.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/CB2007-KC2700-MixingRateCalculation.ipynb)  
+    
+    **Which waters is KC 2700 2007 station made of? Calculation of mixing rate**  
 
 * ##[CanadaBasin-TandSanomVSTh-SavGol-filter-Clean-Oct4-v1.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/CanadaBasin-TandSanomVSTh-SavGol-filter-Clean-Oct4-v1.ipynb)  
     
@@ -68,15 +78,25 @@ Descriptions under the links below are from the first cell of the notebooks
 
 * ##[Fitting-tests_for_CanadaBasin-v1-data-TandSanomVSTh.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/Fitting-tests_for_CanadaBasin-v1-data-TandSanomVSTh.ipynb)  
     
+* ##[WOD-fromODV-64N90N-MaxDepth.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/WOD-fromODV-64N90N-MaxDepth.ipynb)  
+    
 * ##[CanadaBasin-v1-data.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/CanadaBasin-v1-data.ipynb)  
     
 * ##[Geotraces2015data-PaTh-v2.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/Geotraces2015data-PaTh-v2.ipynb)  
+    
+* ##[WorldOceanDatabase2013-PreScannedGeoData-testConvertingToPANDAS.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/WorldOceanDatabase2013-PreScannedGeoData-testConvertingToPANDAS.ipynb)  
     
 * ##[CanadaBasin-v1-data-TandSanomVSTh-Lowess.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/CanadaBasin-v1-data-TandSanomVSTh-Lowess.ipynb)  
     
 * ##[CanadaBasin-v1-hydro-fluo.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/CanadaBasin-v1-hydro-fluo.ipynb)  
     
+* ##[CB2009-L3-MixingRateCalculation.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/CB2009-L3-MixingRateCalculation.ipynb)  
+    
+    **Which waters is L3 2009 station made of? Calculation of mixing rate**  
+
 * ##[Geotraces2015data-PaThStations_MAP-color.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/Geotraces2015data-PaThStations_MAP-color.ipynb)  
+    
+* ##[WOD-fromODV-64N90N-TemperatureOnIsopycn27.9.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/WOD-fromODV-64N90N-TemperatureOnIsopycn27.9.ipynb)  
     
 
 
