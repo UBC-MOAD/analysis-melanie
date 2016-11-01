@@ -18,6 +18,8 @@ Descriptions under the links below are from the first cell of the notebooks
     
 * ##[CanadaBasin-v1-hydro-transmi.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/CanadaBasin-v1-hydro-transmi.ipynb)  
     
+* ##[CB2009-L3-MixingRateCalculation-v2.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/CB2009-L3-MixingRateCalculation-v2.ipynb)  
+    
 * ##[CanadaBasin-v1-hydro-oxy.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/CanadaBasin-v1-hydro-oxy.ipynb)  
     
 * ##[CanadaBasin-v1-data-TandSanomVSTh-SavGol-filter-v3.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/CanadaBasin-v1-data-TandSanomVSTh-SavGol-filter-v3.ipynb)  
@@ -28,9 +30,13 @@ Descriptions under the links below are from the first cell of the notebooks
     
 * ##[WOD-fromODV-64N90N-TemperatureOnIsopycn27.9-interpol.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/WOD-fromODV-64N90N-TemperatureOnIsopycn27.9-interpol.ipynb)  
     
+* ##[WOD-check-if-ThStation-in.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/WOD-check-if-ThStation-in.ipynb)  
+    
 * ##[Geotraces2015data-PaThData-v2.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/Geotraces2015data-PaThData-v2.ipynb)  
     
 * ##[Geotraces2015data-PaThStations-CBcompar_MAP.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/Geotraces2015data-PaThStations-CBcompar_MAP.ipynb)  
+    
+* ##[SoftwareGroup-Oct31.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/SoftwareGroup-Oct31.ipynb)  
     
 * ##[Geotraces2015data-Hydro.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/Geotraces2015data-Hydro.ipynb)  
     
@@ -58,6 +64,8 @@ Descriptions under the links below are from the first cell of the notebooks
     
 * ##[WOD-fromODV-64N90N-pickle.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/WOD-fromODV-64N90N-pickle.ipynb)  
     
+* ##[WOD-fromODV-64N90N-TemperatureOnIsopycn27.9-interpol-Clean-forAnim.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/WOD-fromODV-64N90N-TemperatureOnIsopycn27.9-interpol-Clean-forAnim.ipynb)  
+    
 * ##[CAA8-v1.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/CAA8-v1.ipynb)  
     
     **CAA8 story**  
@@ -77,6 +85,8 @@ Descriptions under the links below are from the first cell of the notebooks
     **Labrador Sea story**  
 
 * ##[Fitting-tests_for_CanadaBasin-v1-data-TandSanomVSTh.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/Fitting-tests_for_CanadaBasin-v1-data-TandSanomVSTh.ipynb)  
+    
+* ##[WOD-fromODV-64N90N-TemperatureOnIsopycn27.9-interpol-Clean.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/WOD-fromODV-64N90N-TemperatureOnIsopycn27.9-interpol-Clean.ipynb)  
     
 * ##[WOD-fromODV-64N90N-MaxDepth.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/WOD-fromODV-64N90N-MaxDepth.ipynb)  
     
