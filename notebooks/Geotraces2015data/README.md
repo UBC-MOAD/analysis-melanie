@@ -32,6 +32,8 @@ Descriptions under the links below are from the first cell of the notebooks
     
 * ##[WOD-check-if-ThStation-in.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/WOD-check-if-ThStation-in.ipynb)  
     
+* ##[WOD-fromODV-64N90N-TemperatureOnIsopycn27.9-SpecificAreas-monthlyDistrib.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/WOD-fromODV-64N90N-TemperatureOnIsopycn27.9-SpecificAreas-monthlyDistrib.ipynb)  
+    
 * ##[Geotraces2015data-PaThData-v2.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/Geotraces2015data-PaThData-v2.ipynb)  
     
 * ##[Geotraces2015data-PaThStations-CBcompar_MAP.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/Geotraces2015data-PaThStations-CBcompar_MAP.ipynb)  
@@ -55,6 +57,8 @@ Descriptions under the links below are from the first cell of the notebooks
 * ##[Geotraces2015data-PaThData-CB-compare1995-2007-2009.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/Geotraces2015data-PaThData-CB-compare1995-2007-2009.ipynb)  
     
 * ##[CanadaBasin-v1-data-TandSanomVSTh-SavGol-filter.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/CanadaBasin-v1-data-TandSanomVSTh-SavGol-filter.ipynb)  
+    
+* ##[WOD-fromODV-64N90N-TemperatureOnIsopycn27.9-SpecificAreas-define.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/WOD-fromODV-64N90N-TemperatureOnIsopycn27.9-SpecificAreas-define.ipynb)  
     
 * ##[Geotraces2015data-AllStations-PaThStations_MAP-v2.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/Geotraces2015data-AllStations-PaThStations_MAP-v2.ipynb)  
     
