@@ -82,6 +82,8 @@ Descriptions under the links below are from the first cell of the notebooks
     
     **This notebook aims at comparing the diss. Th concentration variability between the 2007, 2009 and 2015 stations in the intermediate/deep Canada Basin**  
 
+* ##[WOD-fromODV-64N90N-TemperatureOnIsopycn27875-27975-SpecificAreas-monthlyDistrib.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/WOD-fromODV-64N90N-TemperatureOnIsopycn27875-27975-SpecificAreas-monthlyDistrib.ipynb)  
+    
 * ##[LabradorSea-MAP.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/LabradorSea-MAP.ipynb)  
     
 * ##[LabradorSea-v1.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/LabradorSea-v1.ipynb)  
@@ -109,6 +111,8 @@ Descriptions under the links below are from the first cell of the notebooks
     **Which waters is L3 2009 station made of? Calculation of mixing rate**  
 
 * ##[Geotraces2015data-PaThStations_MAP-color.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/Geotraces2015data-PaThStations_MAP-color.ipynb)  
+    
+* ##[WOD-fromODV-64N90N-TemperatureBetween27875and27975-SpecificAreas-define.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/WOD-fromODV-64N90N-TemperatureBetween27875and27975-SpecificAreas-define.ipynb)  
     
 * ##[WOD-fromODV-64N90N-TemperatureOnIsopycn27.9.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/WOD-fromODV-64N90N-TemperatureOnIsopycn27.9.ipynb)  
     
