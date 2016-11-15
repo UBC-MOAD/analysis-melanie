@@ -10,6 +10,8 @@ Descriptions under the links below are from the first cell of the notebooks
     
 * ##[WorldOceanDatabase2013-PreScannedGeoData-TO-PANDAS-DATAFRAME-WOD.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/WorldOceanDatabase2013-PreScannedGeoData-TO-PANDAS-DATAFRAME-WOD.ipynb)  
     
+* ##[WOD-fromODV-64N90N-TemperatureOnIsopycn27875-27975-SpecificAreas-area12.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/WOD-fromODV-64N90N-TemperatureOnIsopycn27875-27975-SpecificAreas-area12.ipynb)  
+    
 * ##[LabradorSea-v2.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/LabradorSea-v2.ipynb)  
     
     **Labrador Sea story**  
@@ -34,7 +36,11 @@ Descriptions under the links below are from the first cell of the notebooks
     
 * ##[WOD-fromODV-64N90N-TemperatureOnIsopycn27.9-SpecificAreas-monthlyDistrib.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/WOD-fromODV-64N90N-TemperatureOnIsopycn27.9-SpecificAreas-monthlyDistrib.ipynb)  
     
+* ##[WOD-fromODV-64N90N-TemperatureOnIsopycn27875-27975-SpecificAreas-area2.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/WOD-fromODV-64N90N-TemperatureOnIsopycn27875-27975-SpecificAreas-area2.ipynb)  
+    
 * ##[Geotraces2015data-PaThData-v2.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/Geotraces2015data-PaThData-v2.ipynb)  
+    
+* ##[WOD-fromODV-64N90N-TemperatureOnIsopycn27875-27975-SpecificAreas-area5.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/WOD-fromODV-64N90N-TemperatureOnIsopycn27875-27975-SpecificAreas-area5.ipynb)  
     
 * ##[Geotraces2015data-PaThStations-CBcompar_MAP.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/Geotraces2015data-PaThStations-CBcompar_MAP.ipynb)  
     
@@ -50,7 +56,11 @@ Descriptions under the links below are from the first cell of the notebooks
     
     **List examples**  
 
+* ##[WOD-fromODV-64N90N-TemperatureOnIsopycn27875-27975-SpecificAreas-area8.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/WOD-fromODV-64N90N-TemperatureOnIsopycn27875-27975-SpecificAreas-area8.ipynb)  
+    
 * ##[CanadaBasin-v1-hydro.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/CanadaBasin-v1-hydro.ipynb)  
+    
+* ##[WOD-fromODV-64N90N-TemperatureOnIsopycn27875-27975-SpecificAreas-area11.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/WOD-fromODV-64N90N-TemperatureOnIsopycn27875-27975-SpecificAreas-area11.ipynb)  
     
 * ##[Geotraces2015data-PaThStations_MAP-grey.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/Geotraces2015data-PaThStations_MAP-grey.ipynb)  
     
@@ -66,6 +76,10 @@ Descriptions under the links below are from the first cell of the notebooks
     
 * ##[Geotraces2015data-ReadAndDefineData.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/Geotraces2015data-ReadAndDefineData.ipynb)  
     
+* ##[WOD-fromODV-64N90N-TemperatureOnIsopycn27875-27975-SpecificAreas-area9.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/WOD-fromODV-64N90N-TemperatureOnIsopycn27875-27975-SpecificAreas-area9.ipynb)  
+    
+* ##[WOD-fromODV-64N90N-TemperatureOnIsopycn27875-27975-SpecificAreas-area10.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/WOD-fromODV-64N90N-TemperatureOnIsopycn27875-27975-SpecificAreas-area10.ipynb)  
+    
 * ##[WOD-fromODV-64N90N-pickle.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/WOD-fromODV-64N90N-pickle.ipynb)  
     
 * ##[WOD-fromODV-64N90N-TemperatureOnIsopycn27.9-interpol-Clean-forAnim.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/WOD-fromODV-64N90N-TemperatureOnIsopycn27.9-interpol-Clean-forAnim.ipynb)  
@@ -78,11 +92,15 @@ Descriptions under the links below are from the first cell of the notebooks
     
     **Which waters is KC 2700 2007 station made of? Calculation of mixing rate**  
 
+* ##[WOD-fromODV-64N90N-TemperatureOnIsopycn27.9-SpecificAreas-monthlyDistrib-areaDefUpdated.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/WOD-fromODV-64N90N-TemperatureOnIsopycn27.9-SpecificAreas-monthlyDistrib-areaDefUpdated.ipynb)  
+    
 * ##[CanadaBasin-TandSanomVSTh-SavGol-filter-Clean-Oct4-v1.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/CanadaBasin-TandSanomVSTh-SavGol-filter-Clean-Oct4-v1.ipynb)  
     
     **This notebook aims at comparing the diss. Th concentration variability between the 2007, 2009 and 2015 stations in the intermediate/deep Canada Basin**  
 
-* ##[WOD-fromODV-64N90N-TemperatureOnIsopycn27875-27975-SpecificAreas-monthlyDistrib.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/WOD-fromODV-64N90N-TemperatureOnIsopycn27875-27975-SpecificAreas-monthlyDistrib.ipynb)  
+* ##[WOD-fromODV-64N90N-TemperatureOnIsopycn27875-27975-SpecificAreas-area1.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/WOD-fromODV-64N90N-TemperatureOnIsopycn27875-27975-SpecificAreas-area1.ipynb)  
+    
+* ##[WOD-fromODV-64N90N-TemperatureOnIsopycn27875-27975-SpecificAreas-area7b.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/WOD-fromODV-64N90N-TemperatureOnIsopycn27875-27975-SpecificAreas-area7b.ipynb)  
     
 * ##[LabradorSea-MAP.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/LabradorSea-MAP.ipynb)  
     
@@ -90,11 +108,17 @@ Descriptions under the links below are from the first cell of the notebooks
     
     **Labrador Sea story**  
 
+* ##[WOD-fromODV-64N90N-TemperatureOnIsopycn27875-27975-SpecificAreas-area6.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/WOD-fromODV-64N90N-TemperatureOnIsopycn27875-27975-SpecificAreas-area6.ipynb)  
+    
 * ##[Fitting-tests_for_CanadaBasin-v1-data-TandSanomVSTh.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/Fitting-tests_for_CanadaBasin-v1-data-TandSanomVSTh.ipynb)  
+    
+* ##[WOD-fromODV-64N90N-TemperatureOnIsopycn27875-27975-SpecificAreas-area3.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/WOD-fromODV-64N90N-TemperatureOnIsopycn27875-27975-SpecificAreas-area3.ipynb)  
     
 * ##[WOD-fromODV-64N90N-TemperatureOnIsopycn27.9-interpol-Clean.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/WOD-fromODV-64N90N-TemperatureOnIsopycn27.9-interpol-Clean.ipynb)  
     
 * ##[WOD-fromODV-64N90N-MaxDepth.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/WOD-fromODV-64N90N-MaxDepth.ipynb)  
+    
+* ##[WOD-fromODV-64N90N-TemperatureOnIsopycn27875-27975-SpecificAreas-area4.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/WOD-fromODV-64N90N-TemperatureOnIsopycn27875-27975-SpecificAreas-area4.ipynb)  
     
 * ##[CanadaBasin-v1-data.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/CanadaBasin-v1-data.ipynb)  
     
@@ -105,6 +129,10 @@ Descriptions under the links below are from the first cell of the notebooks
 * ##[CanadaBasin-v1-data-TandSanomVSTh-Lowess.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/CanadaBasin-v1-data-TandSanomVSTh-Lowess.ipynb)  
     
 * ##[CanadaBasin-v1-hydro-fluo.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/CanadaBasin-v1-hydro-fluo.ipynb)  
+    
+* ##[WOD-fromODV-64N90N-TemperatureOnIsopycn27875-27975-SpecificAreas-area7.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/WOD-fromODV-64N90N-TemperatureOnIsopycn27875-27975-SpecificAreas-area7.ipynb)  
+    
+* ##[WOD-fromODV-64N90N-TemperatureOnIsopycn27875-27975-SpecificAreas-area2b.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/WOD-fromODV-64N90N-TemperatureOnIsopycn27875-27975-SpecificAreas-area2b.ipynb)  
     
 * ##[CB2009-L3-MixingRateCalculation.ipynb](http://nbviewer.jupyter.org/urls/bitbucket.org/ccar-modeling/analysis-melanie/raw/tip/notebooks/Geotraces2015data/CB2009-L3-MixingRateCalculation.ipynb)  
     
